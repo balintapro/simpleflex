@@ -1,12 +1,12 @@
-# simpleflex
+# grid-simpleflex
 
 If you:
-- need only a simple grid
-- already have scss processing in you project set up
+- need a simple grid
+- already have SCSS processing in you project set up
 
 ## features
 
-This project is a total scss conversion of [Flexbox Grid](http://flexboxgrid.com).
+This project is a total SCSS conversion of [Flexbox Grid](http://flexboxgrid.com).
 
 ## npm
 `npm i grid-simpleflex --save`
