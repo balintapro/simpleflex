@@ -1,17 +1,19 @@
 # simpleflex
 
-If you only need a grid and you already have scss processing in you project set up, this module is for you.
+If you:
+- need only a simple grid
+- already have scss processing in you project set up
 
 ## features
 
-This project is a total scss conversion of [Flexbox Grid](http://flexboxgrid.com) so you have any bootstrap like default classnames already in place.
+This project is a total scss conversion of [Flexbox Grid](http://flexboxgrid.com).
 
 ## npm
 `npm i grid-simpleflex --save`
 
 ## example usage
 
-This may differ depending on your boundler and setup.
+May differ depending on your boundler and setup.
 
 ```SCSS
 //import the whole grid
