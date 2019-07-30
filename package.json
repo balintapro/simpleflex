@@ -1,5 +1,5 @@
 {
-  "name": "simpleflex",
+  "name": "grid-simpleflex",
   "version": "1.0.0",
   "description": "A simple flexbox grid with bootstrap like classnames in scss insired by Flexbox Grid: https://github.com/kristoferjoseph/flexboxgrid",
   "style": "index.scss",

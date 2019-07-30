@@ -7,19 +7,22 @@ If you only need a grid and you already have scss processing in you project set 
 This project is a total scss conversion of [Flexbox Grid](http://flexboxgrid.com) so you have any bootstrap like default classnames already in place.
 
 ## npm
-`npm i simpleflex --save`
+`npm i grid-simpleflex --save`
 
 ## example usage
+
+This may differ depending on your boundler and setup.
+
 ```SCSS
 //import the whole grid
-@import 'simpleflex'
+@import 'grid-simpleflex'
 ```
 
 ```SCSS
 //import only what you need
-@import 'simpleflex/grid/container';
-@import 'simpleflex/grid/xs_grid';
-@import 'simpleflex/grid/sm_grid';
-@import 'simpleflex/grid/md_grid';
-@import 'simpleflex/grid/lg_grid';
+@import 'grid-simpleflex/grid/container';
+@import 'grid-simpleflex/grid/xs_grid';
+@import 'grid-simpleflex/grid/sm_grid';
+@import 'grid-simpleflex/grid/md_grid';
+@import 'grid-simpleflex/grid/lg_grid';
 ```
