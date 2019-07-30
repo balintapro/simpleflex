@@ -1,0 +1,28 @@
+{
+  "name": "simpleflex",
+  "version": "1.0.0",
+  "description": "A simple flexbox grid with bootstrap like classnames in scss insired by Flexbox Grid: https://github.com/kristoferjoseph/flexboxgrid",
+  "style": "index.scss",
+  "main": "index.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abalint88/simleflex.git"
+  },
+  "keywords": [
+    "simpleflex",
+    "flexbox",
+    "grid",
+    "scss",
+    "bootstrap",
+    "fexbox-grid"
+  ],
+  "author": "Balint Apro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abalint88/simleflex/issues"
+  },
+  "homepage": "https://github.com/abalint88/simleflex#readme"
+}
