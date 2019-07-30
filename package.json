@@ -1,6 +1,6 @@
 {
   "name": "grid-simpleflex",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A simple flexbox grid with bootstrap like classnames in scss insired by Flexbox Grid: https://github.com/kristoferjoseph/flexboxgrid",
   "style": "index.scss",
   "main": "index.scss",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abalint88/simleflex.git"
+    "url": "git+https://github.com/abalint88/simpleflex.git"
   },
   "keywords": [
     "simpleflex",
