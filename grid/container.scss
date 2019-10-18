@@ -11,7 +11,7 @@
 
 @media only screen and (max-width: 969px) {
 	[class*="col-md-"] {
-		padding: 10px;
+		padding: .5rem;
 	}
 }
 
@@ -32,8 +32,8 @@
 
 .container-fluid {
 	max-width: 100%;
-	padding-right: 10px;
-	padding-left: 10px;
+	padding-right: .5rem;;
+	padding-left: .5rem;
 }
 
 .row {
@@ -49,9 +49,9 @@
 	-ms-flex-direction: row;
 	flex-direction: row;
 	-ms-flex-wrap: wrap;
-	flex-wrap: wrap; /*
-	margin-right: -10px;
-	margin-left: -10px; */
+	flex-wrap: wrap; 
+	margin-right: -.5rem;
+	margin-left: -.5rem;
 }
 
 .row.reverse {
