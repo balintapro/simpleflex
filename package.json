@@ -1,7 +1,7 @@
 {
   "name": "grid-simpleflex",
-  "version": "1.0.31",
-  "description": "A simple flexbox grid with bootstrap like classnames in scss insired by Flexbox Grid: https://github.com/kristoferjoseph/flexboxgrid",
+  "version": "2.0.0",
+  "description": "This project is a total SCSS conversion of Flexbox Grid: https://github.com/kristoferjoseph/flexboxgrid",
   "style": "index.scss",
   "main": "index.scss",
   "scripts": {
