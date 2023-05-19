@@ -1,5 +1,7 @@
 # grid-simpleflex
 
+A simple bootstrap 3 like, modular, lightweight grid system and nothing more.
+
 If you:
 - need a simple grid
 - already have SCSS processing in you project set up
